@@ -19,7 +19,7 @@ const Navbar = () => {
     <button className='text-black bg-white my-5 rounded-full flex
     justify-between items-center'>
 <img className=' w-10 p1 rounded-full' src="/github.png" alt="" />
-<span className='font-bold px-2'>Github</span>
+<span className='font-bold px-2'><a href="https://github.com/Janhavirase/passwordOP">Github</a></span>
     </button>
     </div>
    </nav>
